@@ -15,7 +15,7 @@ Installation
 
 Add this into your Gemfile and then run bundle install
 
-    gem "password_strength_meter"
+    gem "PasswordStrengthMeter"
 
 Usage
 -----
